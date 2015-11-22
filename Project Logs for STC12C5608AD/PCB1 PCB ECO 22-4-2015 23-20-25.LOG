@@ -1,0 +1,12 @@
+Added Component: Designator=P1(HDR1X3_MTA)
+Added Component: Designator=P4(HDR1X4_MTA)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=NetC1_1 Pin=P1-3
+Added Pin To Net: NetName=VCC Pin=P4-1
+Added Pin To Net: NetName=Net*2_9 Pin=P4-2
+Added Pin To Net: NetName=Net*2_8 Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Member To Class: ClassName=Sheet2 Member=Component P1 Header 3
+Added Member To Class: ClassName=Sheet2 Member=Component P4 Header 4
+Added Room: Name=Sheet2

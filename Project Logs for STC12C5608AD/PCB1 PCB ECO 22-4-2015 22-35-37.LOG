@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=RES-
+Change Component Footprint: Designator=C5 Old Footprint=Capacitor New Footprint=CAPA2.5EBR
+Change Component Footprint: Designator=C3 Old Footprint=Ceramic capacitor New Footprint=cap2.5mmceramic
+Change Component Footprint: Designator=C4 Old Footprint=Ceramic capacitor New Footprint=cap2.5mmceramic
+Added Component: Designator=D?(ledred)
+Added Component: Designator=R?(RES-)
+Added Pin To Net: NetName=Net*_9 Pin=D?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Net: Name=NetD?_2
+Added Member To Class: ClassName=Sheet2 Member=Component D? LED0
+Added Member To Class: ClassName=Sheet2 Member=Component R? Res1
+Added Room: Name=Sheet2

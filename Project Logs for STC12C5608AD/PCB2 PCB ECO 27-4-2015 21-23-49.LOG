@@ -1,0 +1,151 @@
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P2-10
+Added Pin To Net: NetName=GND Pin=P3-10
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=GND Pin=P5-10
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=STC1-14
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=Net*1_2 Pin=P2-2
+Added Pin To Net: NetName=Net*1_2 Pin=STC1-18
+Added Net: Name=Net*1_2
+Added Pin To Net: NetName=Net*1_3 Pin=*1-3
+Added Pin To Net: NetName=Net*1_3 Pin=P2-3
+Added Pin To Net: NetName=Net*1_3 Pin=STC1-19
+Added Net: Name=Net*1_3
+Added Pin To Net: NetName=Net*1_4 Pin=*1-4
+Added Pin To Net: NetName=Net*1_4 Pin=P2-4
+Added Pin To Net: NetName=Net*1_4 Pin=STC1-20
+Added Net: Name=Net*1_4
+Added Pin To Net: NetName=Net*1_5 Pin=*1-5
+Added Pin To Net: NetName=Net*1_5 Pin=P2-5
+Added Pin To Net: NetName=Net*1_5 Pin=STC1-21
+Added Net: Name=Net*1_5
+Added Pin To Net: NetName=Net*1_6 Pin=*1-6
+Added Pin To Net: NetName=Net*1_6 Pin=P2-6
+Added Pin To Net: NetName=Net*1_6 Pin=STC1-22
+Added Net: Name=Net*1_6
+Added Pin To Net: NetName=Net*1_7 Pin=*1-7
+Added Pin To Net: NetName=Net*1_7 Pin=P2-7
+Added Pin To Net: NetName=Net*1_7 Pin=STC1-23
+Added Net: Name=Net*1_7
+Added Pin To Net: NetName=Net*1_8 Pin=*1-8
+Added Pin To Net: NetName=Net*1_8 Pin=P2-8
+Added Pin To Net: NetName=Net*1_8 Pin=STC1-24
+Added Net: Name=Net*1_8
+Added Pin To Net: NetName=Net*1_9 Pin=*1-9
+Added Pin To Net: NetName=Net*1_9 Pin=P2-9
+Added Pin To Net: NetName=Net*1_9 Pin=STC1-25
+Added Net: Name=Net*1_9
+Added Pin To Net: NetName=Net*2_3 Pin=*2-3
+Added Pin To Net: NetName=Net*2_3 Pin=P3-8
+Added Pin To Net: NetName=Net*2_3 Pin=STC1-17
+Added Net: Name=Net*2_3
+Added Pin To Net: NetName=Net*2_5 Pin=*2-5
+Added Pin To Net: NetName=Net*2_5 Pin=P3-6
+Added Pin To Net: NetName=Net*2_5 Pin=STC1-10
+Added Net: Name=Net*2_5
+Added Pin To Net: NetName=Net*2_6 Pin=*2-6
+Added Pin To Net: NetName=Net*2_6 Pin=P3-5
+Added Pin To Net: NetName=Net*2_6 Pin=STC1-9
+Added Net: Name=Net*2_6
+Added Pin To Net: NetName=Net*2_7 Pin=*2-7
+Added Pin To Net: NetName=Net*2_7 Pin=P3-4
+Added Pin To Net: NetName=Net*2_7 Pin=STC1-8
+Added Net: Name=Net*2_7
+Added Pin To Net: NetName=Net*2_8 Pin=*2-8
+Added Pin To Net: NetName=Net*2_8 Pin=P3-3
+Added Pin To Net: NetName=Net*2_8 Pin=P4-3
+Added Pin To Net: NetName=Net*2_8 Pin=STC1-5
+Added Net: Name=Net*2_8
+Added Pin To Net: NetName=Net*2_9 Pin=*2-9
+Added Pin To Net: NetName=Net*2_9 Pin=P3-2
+Added Pin To Net: NetName=Net*2_9 Pin=P4-2
+Added Pin To Net: NetName=Net*2_9 Pin=STC1-4
+Added Net: Name=Net*2_9
+Added Pin To Net: NetName=Net*3_2 Pin=*3-2
+Added Pin To Net: NetName=Net*3_2 Pin=P5-2
+Added Pin To Net: NetName=Net*3_2 Pin=STC1-26
+Added Net: Name=Net*3_2
+Added Pin To Net: NetName=Net*3_3 Pin=*3-3
+Added Pin To Net: NetName=Net*3_3 Pin=P5-3
+Added Pin To Net: NetName=Net*3_3 Pin=STC1-27
+Added Net: Name=Net*3_3
+Added Pin To Net: NetName=Net*3_4 Pin=*3-4
+Added Pin To Net: NetName=Net*3_4 Pin=P5-4
+Added Pin To Net: NetName=Net*3_4 Pin=STC1-1
+Added Net: Name=Net*3_4
+Added Pin To Net: NetName=Net*3_5 Pin=*3-5
+Added Pin To Net: NetName=Net*3_5 Pin=P5-5
+Added Pin To Net: NetName=Net*3_5 Pin=STC1-2
+Added Net: Name=Net*3_5
+Added Pin To Net: NetName=Net*3_6 Pin=*3-6
+Added Pin To Net: NetName=Net*3_6 Pin=P5-6
+Added Pin To Net: NetName=Net*3_6 Pin=STC1-12
+Added Net: Name=Net*3_6
+Added Pin To Net: NetName=Net*3_7 Pin=*3-7
+Added Pin To Net: NetName=Net*3_7 Pin=P5-7
+Added Pin To Net: NetName=Net*3_7 Pin=STC1-13
+Added Net: Name=Net*3_7
+Added Pin To Net: NetName=Net*3_8 Pin=*3-8
+Added Pin To Net: NetName=Net*3_8 Pin=P5-8
+Added Pin To Net: NetName=Net*3_8 Pin=STC1-15
+Added Net: Name=Net*3_8
+Added Pin To Net: NetName=Net*3_9 Pin=*3-9
+Added Pin To Net: NetName=Net*3_9 Pin=D2-1
+Added Pin To Net: NetName=Net*3_9 Pin=P5-9
+Added Pin To Net: NetName=Net*3_9 Pin=STC1-16
+Added Net: Name=Net*3_9
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=P1-3
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=STC1-6
+Added Pin To Net: NetName=NetC3_2 Pin=Y1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=STC1-7
+Added Pin To Net: NetName=NetC4_2 Pin=Y1-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R3-2
+Added Pin To Net: NetName=NetC5_2 Pin=S1-1
+Added Pin To Net: NetName=NetC5_2 Pin=S1-1
+Added Pin To Net: NetName=NetC5_2 Pin=STC1-3
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R2-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetP3_7 Pin=P3-7
+Added Pin To Net: NetName=NetP3_7 Pin=STC1-11
+Added Net: Name=NetP3_7
+Added Pin To Net: NetName=VCC Pin=*1-1
+Added Pin To Net: NetName=VCC Pin=*2-1
+Added Pin To Net: NetName=VCC Pin=*3-1
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P3-1
+Added Pin To Net: NetName=VCC Pin=P4-1
+Added Pin To Net: NetName=VCC Pin=P5-1
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=VCC Pin=S1-2
+Added Pin To Net: NetName=VCC Pin=S1-2
+Added Pin To Net: NetName=VCC Pin=STC1-28
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Net: Name=VCC
+Added Class: Name=Sheet2
+Added Room: Name=Sheet2
